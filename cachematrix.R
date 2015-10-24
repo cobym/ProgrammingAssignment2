@@ -1,9 +1,9 @@
 
 ## makeCacheMatrix is a function for handling matricies as well as caching their inverse.
-### Returns the handle for matrix m
+## Returns the handle for matrix m
 
 ### Creating a new matrix:              m <- makeCacheMatrix(newMatrix)
-###     Where newmatrix is an argument of class 'matrix'
+###     Where newMatrix is an argument of class 'matrix'
 ### Get matrix value:                   m$get()
 ### Set new value to existing matrix:   m$set(newMatrixValue)
 ### Get cached matrix inverse:          m$getinv()
