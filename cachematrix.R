@@ -3,7 +3,7 @@
 ### Returns the handle for matrix m
 
 ### Creating a new matrix:              m <- makeCacheMatrix(newMatrix)
-###     Where new matrix is an argument of class 'matrix'
+###     Where newmatrix is an argument of class 'matrix'
 ### Get matrix value:                   m$get()
 ### Set new value to existing matrix:   m$set(newMatrixValue)
 ### Get cached matrix inverse:          m$getinv()
